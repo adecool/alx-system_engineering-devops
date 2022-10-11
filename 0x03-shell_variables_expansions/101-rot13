@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "readme" | rot13 | rot13 -d
+echo -e "\"Everyone is a proponent of strong encryption.\" \n- Dorothy E. Denning" | rot13 | rot13 -d
