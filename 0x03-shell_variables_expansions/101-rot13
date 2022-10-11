@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "\"Everyone is a proponent of strong encryption.\" \n- Dorothy E. Denning" | rot13 | rot13 -d
+echo '[A-Za-z]' | rot13
