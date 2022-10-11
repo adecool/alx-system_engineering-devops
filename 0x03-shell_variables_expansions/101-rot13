@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '[A-Za-z]' | rot13
+tr '[A-Za-z]' '[N-ZA-MMn-za-m]'
